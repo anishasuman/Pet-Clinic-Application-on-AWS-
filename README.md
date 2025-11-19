@@ -101,4 +101,18 @@ http://your-ec2-public-ip:8080
 🎉 Final Output
 
 You should see the Spring Pet Clinic homepage running on your EC2 instance.
+<h1 align="center"></h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-AWS_EC2-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-brightgreen?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/Language-Java_17-red?style=for-the-badge&logo=coffeescript" />
+</p>
+
+<p align="center">
+  Fully documented steps to deploy Spring Pet Clinic on Amazon Linux EC2 using Java, Maven, and Git.
+</p>
+
+---
+
 
